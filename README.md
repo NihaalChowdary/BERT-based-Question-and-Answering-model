@@ -4,12 +4,12 @@ A BERT-based question and answering model fine-tuned on the SQuADv2 dataset.
 ## Table of Contents
 
 1. [Introduction](#introduction)
-   - [Background]
-   - [Objective]
-   - [Approach]
-   - [Significance]
+   - [Background](#background)
+   - [Objective](#objective)
+   - [Approach](#approach)
+   - [Significance](#significance)
 3. [Features](#features)
-4. [Model Architecture](#modal_architecture)
+4. [Model Architecture](#model_architecture)
 
 ## Introduction
 
