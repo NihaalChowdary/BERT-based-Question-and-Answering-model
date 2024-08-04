@@ -40,7 +40,7 @@ By fine-tuning BERT on SQuADv2, this project aims to develop a robust question a
 - Handles questions that may not have answers in the provided context
 
 ## Model Architecture
-
+![model architecture](https://github.com/NihaalChowdary/BERT-based-Question-and-Answering-model/blob/42ddea6bcba038fe3a3b82bd94a330561d13d745/13369_2021_5810_Fig4_HTML.png)
 
 
 
